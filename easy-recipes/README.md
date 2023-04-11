@@ -63,9 +63,9 @@ $ E pronto já estará funcionando
 
  <h2 id="autor"> 🦸 Autor</h2>
 
-[Wesley Wisch](https://www.linkedin.com/in/wesley-wisch)
+[Eduardo Diniz]([(https://www.linkedin.com/in/eduardo-d-9630b41ab/)])
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square-border&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wesley-wisch/)](https://www.linkedin.com/in/wesley-wisch) [![Instagram Badge](https://img.shields.io/badge/-Instagram-CC0000?style=flat-square-border&logo=Instagram&logoColor=white&link=https://www.instagram.com/wesley_wisch/)](https://www.instagram.com/wesley_wisch/) [![wesley_wisch@hotmail.com Bagde](https://img.shields.io/badge/wesley_wisch-2e7eea?style=flat-square-border&logo=microsoft-outlook&logoColor=white)](mailto:wesley_wisch@hotmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square-border&logo=Linkedin&logoColor=white&link=https:)](https://www.linkedin.com/in/eduardo-d-9630b41ab) [![Instagram Badge](https://img.shields.io/badge/-Instagram-CC0000?style=flat-square-border&logo=Instagram&logoColor=white&link=https://www.instagram.com/wesley_wisch/)](https://www.instagram.com/edu_diniz2953/) [![wesley_eduardo.annes16@gmail.com Bagde](https://img.shields.io/badge/Eduardo_Diniz-2e7eea?style=flat-square-border&logo=microsoft-outlook&logoColor=white)](mailto:eduardo.annes16@gmail.com)
 
 <h2 id="licenca"> ⚠️  Licença</h2>
 
